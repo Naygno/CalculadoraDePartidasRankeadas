@@ -18,13 +18,13 @@ A calculadora simula um jogo onde o jogador pode passar por diferentes níveis d
 
 O nível do jogador é determinado pelo **saldo de vitórias** que é obito subtraindo o número de derrotas acumuladas do número de vitórias acumuladas, ou seja, $saldoDeVitorias = vitorias - derrotas$:
 
-  * **Ferro:** Saldo < 10  
-  * **Bronze:** Saldo entre 11 e 20 
-  * **Prata:** Saldo entre 21 e 50
-  * **Ouro:** Saldo entre 51 e 80
-  * **Diamante:** Saldo entre 81 e 90
-  * **Lendário:** Saldo entre 91 e 100
-  * **Imortal:** Saldo $\ge 101$
+  * **Ferro:** Saldo < 10;
+  * **Bronze:** Saldo entre 11 e 20;
+  * **Prata:** Saldo entre 21 e 50;
+  * **Ouro:** Saldo entre 51 e 80;
+  * **Diamante:** Saldo entre 81 e 90;
+  * **Lendário:** Saldo entre 91 e 100;
+  * **Imortal:** Saldo $\ge 101$.
 
 -----
 
