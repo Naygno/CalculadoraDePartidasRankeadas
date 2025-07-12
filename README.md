@@ -16,7 +16,7 @@ A calculadora simula um jogo onde o jogador pode passar por diferentes níveis d
 
 ### 📊 Níveis de Classificação
 
-O nível do jogador é determinado pelo **número total de vitórias** acumuladas:
+O nível do jogador é determinado pelo **saldo de vitórias** que é obito subtraindo o número de derrotas acumuladas do número de vitórias acumuladas, ou seja, vitórias - derrotas:
 
   * **Ferro:** Vitórias < 10  
   * **Bronze:** Vitórias entre 11 e 20 
