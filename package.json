@@ -1,0 +1,12 @@
+{
+  "name": "calculadoradepartidasrankeadas",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Naygno Barbosa Noia",
+  "license": "MIT",
+  "description": "Este projeto implementa uma calculadora de nível de jogador para um jogo ranqueado, baseada na quantidade de vitórias e derrotas. Ele simula partidas e níveis de dificuldade, classificando o Herói em diferentes elos."
+}
