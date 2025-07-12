@@ -40,15 +40,14 @@ Este projeto é um script JavaScript simples que pode ser executado em um ambien
 
 1.  **Clone o repositório** (ou copie o código para um arquivo `.js`):
     ```bash
-    git clone [URL_DO_SEU_REPOSITORIO]
-    cd [nome-do-repositorio]
+    git clone https://github.com/Naygno/CalculadoraDePartidasRankeadas.git
+    cd CalculadoraDePartidasRankeadas
     ```
 2.  **Salve o código:** Certifique-se de que o código das funções (`simulaPartidas`, `simulaJogoNoNivel`, `mensagemFinal`, `geraNivelAleatorio`, `simulaJogo`) esteja em um arquivo `.js`, por exemplo, `index.js` ou `app.js`.
-3.  **Execute o script:** Abra seu terminal na pasta do projeto e execute o comando:
+3.  **Execute o script:** Abra seu terminal e entre na pasta src do projeto e execute o comando:
     ```bash
     node index.js
     ```
-    (Se o nome do seu arquivo for diferente, substitua `index.js` pelo nome correto).
 
 O resultado da simulação será exibido diretamente no console.
 
