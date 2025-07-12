@@ -80,7 +80,7 @@ Este projeto demonstra a aplicação dos seguintes conceitos de programação:
 
 ## ✒️ Autoria
 
-Este projeto foi desenvolvido por **[Seu Nome/Nome de Usuário do GitHub]**.
+Este projeto foi desenvolvido por **[Naygno Barbosa Noia](https://github.com/Naygno)**.
 
 -----
 
